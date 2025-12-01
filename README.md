@@ -11,7 +11,7 @@ Hi there I am a Ph.D. student in CS at UB. My research focuses on machine learni
 ## Open Source Contributions
 
 ### <img src="https://raw.githubusercontent.com/pytorch/pytorch/ded9bcd61a059bf723e6e84689552962b480ea77/docs/source/_static/img/pytorch-logo-flame.svg" alt="PyTorch" height="20" style="vertical-align: middle;"> PyTorch
-- [PR #129856](https://github.com/pytorch/pytorch/pull/129856): a fast sparse linear system solver for CUDA GPUs, integrated into PyTorch's `linalg` library. The optimization resulted in a 20-30% speedup over previous implementations.
+- [PR #129856](https://github.com/pytorch/pytorch/pull/129856): a fast [sparse linear system solver](https://github.com/pytorch/pytorch/issues/69538) for CUDA GPUs, integrated into PyTorch's `linalg` library. The optimization resulted in a 20-30% speedup over [previous implementations](https://github.com/pytorch/pytorch/pull/71399).
 
 ### [PyPose](https://github.com/pypose/pypose)
 - [#184](https://github.com/pypose/pypose/pull/184): Implemented batched EPnP (Efficient Perspective-n-Point) algorithm as a `torch.nn.Module`
