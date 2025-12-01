@@ -10,11 +10,17 @@ Hi there I am a Ph.D. student in CS at UB. My research focuses on machine learni
 
 ## Open Source Contributions
 
-### PyTorch
-- PR #129856: a fast sparse linear system solver for CUDA GPUs, integrated into PyTorch's `linalg` library. The optimization resulted in a 20-30% speedup over previous implementations.
+### <img src="https://raw.githubusercontent.com/pytorch/pytorch/ded9bcd61a059bf723e6e84689552962b480ea77/docs/source/_static/img/pytorch-logo-flame.svg" alt="PyTorch" height="20" style="vertical-align: middle;"> PyTorch
+- [PR #129856](https://github.com/pytorch/pytorch/pull/129856): a fast sparse linear system solver for CUDA GPUs, integrated into PyTorch's `linalg` library. The optimization resulted in a 20-30% speedup over previous implementations.
 
 ### [PyPose](https://github.com/pypose/pypose)
-  **Pull Requests:** #184, #216, #284, #309, #312, #317, #320  
+- [#184](https://github.com/pypose/pypose/pull/184): Implemented batched EPnP (Efficient Perspective-n-Point) algorithm as a `torch.nn.Module`
+- [#216](https://github.com/pypose/pypose/pull/216): Added ICP (Iterative Closest Point) module with batched input support
+- [#284](https://github.com/pypose/pypose/pull/284): Enabled LieTensor operations to work under `func.vmap`
+- [#309](https://github.com/pypose/pypose/pull/309): Preserved LieTensor type and operations under `vmap`
+- [#312](https://github.com/pypose/pypose/pull/312): Added Conjugate Gradient (CG) solver for sparse linear systems
+- [#317](https://github.com/pypose/pypose/pull/317): Implemented matrix multiplication between BSR and BSC sparse formats
+- [#320](https://github.com/pypose/pypose/pull/320): Fixed `Inv()` and other LieTensor operations error when using `pp.func.jacrev`  
 
 ---
 
