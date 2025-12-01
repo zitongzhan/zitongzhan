@@ -45,6 +45,20 @@ Hi there I am a Ph.D. student in CS at UB. My research focuses on machine learni
 - **Code:** [InstantSfM GitHub](https://github.com/cre185/InstantSfM)
 - **Website:** [InstantSfM Website](https://cre185.github.io/InstantSfM/)
 
+
+---
+
+## Industry Experience
+
+### 🚁 Applied Scientist Intern @ Amazon | Sunnyvale, CA
+**May 2025 - Aug 2025**
+
+Worked on Indoor SLAM for the [Ring Always Home Drone](https://ring.com/always-home-cam-flying-camera/).
+
+- Production-grade loop closure module
+- Lightweight feature aggregation and place recognition in home environments
+- Robust indoor SLAM research for tricky textureless spaces
+
 ---
 
 ## Contact
