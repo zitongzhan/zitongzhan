@@ -26,14 +26,14 @@ Hi there I am a Ph.D. student in CS at UB. My research focuses on machine learni
 
 ## Publications and Projects
 
+### [Bundle Adjustment in the Eager Mode](https://arxiv.org/abs/2409.12190)
+- **Journal:** IEEE Transactions on Robotics (T-RO), 2026
+- **Code:** [bae GitHub](https://github.com/zitongzhan/bae)
+
 ### [iMatching: Imperative Correspondence Learning](https://arxiv.org/abs/2312.02141)
 - **Conference:** European Conference on Computer Vision (ECCV) 2024
 - **Code:** [iMatching GitHub](https://github.com/sair-lab/iMatching)
 - **Website:** [iMatching Website](https://sairlab.org/iMatching)
-
-### [Bundle Adjustment in the Eager Mode](https://arxiv.org/abs/2409.12190)
-- **Journal:** arXiv preprint arXiv:2409.12190 (2025)
-- **Code:** [bae GitHub](https://github.com/zitongzhan/bae)
 
 ### [PyPose v0.6: The Imperative Programming Interface for Robotics](https://arxiv.org/abs/2309.13035)
 - **Conference:** IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) Workshop 2023
