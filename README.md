@@ -14,6 +14,7 @@ Hi there I am a Ph.D. student in CS at UB. My research focuses on machine learni
 - [PR #129856](https://github.com/pytorch/pytorch/pull/129856): a fast [sparse linear system solver](https://github.com/pytorch/pytorch/issues/69538) for CUDA GPUs, integrated into PyTorch's `linalg` library. The optimization resulted in a 20-30% speedup over [previous implementations](https://github.com/pytorch/pytorch/pull/71399).
 
 ### [PyPose](https://github.com/pypose/pypose)
+- [#378](https://github.com/pypose/pypose/pull/378): Add support for "Bundle Adjustment in the Eager Mode"
 - [#184](https://github.com/pypose/pypose/pull/184): Implemented batched EPnP (Efficient Perspective-n-Point) algorithm as a `torch.nn.Module`
 - [#216](https://github.com/pypose/pypose/pull/216): Added ICP (Iterative Closest Point) module with batched input support
 - [#284](https://github.com/pypose/pypose/pull/284): Enabled LieTensor operations to work under `func.vmap`
