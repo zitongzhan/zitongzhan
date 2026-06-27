@@ -32,17 +32,17 @@ Hi there I am a Ph.D. student in CS at UB. My research focuses on machine learni
 - **Code:** [bae GitHub](https://github.com/zitongzhan/bae)
 
 ### [iMatching: Imperative Correspondence Learning](https://arxiv.org/abs/2312.02141)
-- **Conference:** European Conference on Computer Vision (ECCV) 2024
+- **Conference:** European Conference on Computer Vision (ECCV), 2024
 - **Code:** [iMatching GitHub](https://github.com/sair-lab/iMatching)
 - **Website:** [iMatching Website](https://sairlab.org/iMatching)
 
 ### [PyPose v0.6: The Imperative Programming Interface for Robotics](https://arxiv.org/abs/2309.13035)
-- **Conference:** IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) Workshop 2023
+- **Conference:** IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) Workshop, 2023
 - **Code:** [PyPose GitHub](https://github.com/pypose/pypose)
 - **Video:** [Watch the demo](https://youtu.be/XDtUDIWuGng)
 
-### [InstantSfM: Fully Sparse and Parallel Structure-from-Motion](https://arxiv.org/abs/2510.13310)
-- **Journal:** arXiv preprint arXiv:2510.13310 (2025)
+### [InstantSfM: Towards GPU-Native SfM for the Deep Learning Era](https://arxiv.org/abs/2510.13310)
+- **Journal:** IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026
 - **Code:** [InstantSfM GitHub](https://github.com/cre185/InstantSfM)
 - **Website:** [InstantSfM Website](https://cre185.github.io/InstantSfM/)
 
